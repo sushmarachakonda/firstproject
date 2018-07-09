@@ -1,0 +1,14 @@
+.box1{
+	background-color: lightpink;
+	height: 700px;
+	width:800px;
+
+}
+.box2{
+	background-color: lightgreen;
+	height: 700px;
+	width:200px;
+	position:absolute;
+	top: 8px;
+	left: 808px;
+}
