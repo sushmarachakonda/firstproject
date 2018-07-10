@@ -1,0 +1,66 @@
+header{
+	background-color: cyan;
+	padding:5px;
+	color:white;
+	height:100px;
+
+}
+li{
+	display: block;
+	size: 30px;
+	padding: 15px;
+	margin:15px;
+
+	
+background-color: white;
+color:black;
+}
+
+img
+{
+	position: absolute;
+	top:30%;
+}
+article{
+	float: left;
+	padding:10px;
+	width:40%;
+	height: 600px;
+	font-size: 20px;
+
+}
+.para1 p{
+	margin-left: 230px;
+	position:relative;
+	left:100px;
+}
+.para2 p{
+	margin-left: 230px;
+	position:relative;
+	left:100px;
+}
+
+footer{
+	background-color: lightgrey;
+	font-size: 25px;
+	text-align: center;
+	font-weight: lighter;
+	color:white;
+	position: absolute;
+	top:90%;
+	bottom: auto;
+	height: 80px;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+}
+
+content{
+margin-left: 80px;
+	font-size: 20px;
+	float: left;
+	width:40%;
+	height:500px;
+}
+
+}
